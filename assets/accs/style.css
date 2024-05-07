@@ -1,0 +1,34 @@
+body {
+
+    background-color: aqua;
+    
+}
+p   {
+
+   
+    font-family: jaro;
+
+}
+
+#mascotas{
+    display:flex;
+
+}
+.contenedorPrincipal {
+display: flex;
+justify-content: center;
+
+}
+
+
+.imagenMascota{
+    background-color: #fff;
+    padding: 20px; 
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);   
+
+}
+ul{
+ list-style: none;
+}
